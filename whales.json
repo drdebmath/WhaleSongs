@@ -1,5 +1,10 @@
 [
     {
+        "name": "Skyward Leviathan",
+        "image": "./WhaleCards/SkywardLeviathan.jpeg",
+        "description": "A stratospheric titan, Leviathan drinks thunderclouds and exhales rainbows. Air‑borne sailors tether their skiffs to its luminous baleen to harvest storms safely."
+    },
+    {
         "name": "Golemheart Terrafin",
         "image": "./WhaleCards/GolemheartTerrafin.jpeg",
         "description": "Carved from bedrock and lichen, Terrafin plows through tectonic plates as effortlessly as water. Forests sprout along its spine, and rivers reroute to follow its migratory tremors. Villages built upon its flanks re-emerge centuries later as living myths."
@@ -15,9 +20,9 @@
         "description": "Forged in super‑nova surf, Luminar shepherds starlight into swirling shoals. Each beat of its radiant fins spawns micro‑constellations that drift like lanterns across the void."
     },
     {
-        "name": "Inferno Tidebloom",
-        "image": "./WhaleCards/InfernoTidebloom.jpeg",
-        "description": "Born where magma meets monsoon, Tidebloom exhales petals of molten glass that harden into scarlet reefs. Sailors who follow its ember‑lit path claim the ocean itself hums a fiery lullaby."
+        "name": "Coralback Nomad",
+        "image": "./WhaleCards/CoralbackNomad.jpeg",
+        "description": "Nomad drifts among tropical gyres, a living archipelago cloaked in coral cities. Reef‑dwellers plant flags upon its shell, embarking on migratory kingdoms atop its wandering carapace."
     },
     {
         "name": "Sunchaser Lightborn",
@@ -25,14 +30,9 @@
         "description": "Forged in the furnace of dawn, the Lightborn rides solar winds like gilded surf. Its translucent fins refract sunrise into a thousand rainbows that seed warmth on barren worlds."
     },
     {
-        "name": "Skyward Leviathan",
-        "image": "./WhaleCards/SkywardLeviathan.jpeg",
-        "description": "A stratospheric titan, Leviathan drinks thunderclouds and exhales rainbows. Air‑borne sailors tether their skiffs to its luminous baleen to harvest storms safely."
-    },
-    {
-        "name": "Coralback Nomad",
-        "image": "./WhaleCards/CoralbackNomad.jpeg",
-        "description": "Nomad drifts among tropical gyres, a living archipelago cloaked in coral cities. Reef‑dwellers plant flags upon its shell, embarking on migratory kingdoms atop its wandering carapace."
+        "name": "Inferno Tidebloom",
+        "image": "./WhaleCards/InfernoTidebloom.jpeg",
+        "description": "Born where magma meets monsoon, Tidebloom exhales petals of molten glass that harden into scarlet reefs. Sailors who follow its ember‑lit path claim the ocean itself hums a fiery lullaby."
     },
     {
         "name": "Frostvein Glaciarch",

@@ -1,62 +1,62 @@
 [
     {
         "name": "Golemheart Terrafin",
-        "image": "./WhaleCards/GolemheartTerrafin.png",
+        "image": "./WhaleCards/GolemheartTerrafin.jpeg",
         "description": "Carved from bedrock and lichen, Terrafin plows through tectonic plates as effortlessly as water. Forests sprout along its spine, and rivers reroute to follow its migratory tremors. Villages built upon its flanks re-emerge centuries later as living myths."
     },
     {
         "name": "Neonstream Synthwhale",
-        "image": "./WhaleCards/NeonstreamSynthwhale.png",
+        "image": "./WhaleCards/NeonstreamSynthwhale.jpeg",
         "description": "A symphony of circuitry and cetacean grace, Synthwhale threads neon canals through megacities, siphoning data tides. Hackers pray to glimpse its chromatic wake, said to encode lost languages of light."
     },
     {
         "name": "Stellartide Luminar",
-        "image": "./WhaleCards/StellartideLuminar.png",
+        "image": "./WhaleCards/StellartideLuminar.jpeg",
         "description": "Forged in super‑nova surf, Luminar shepherds starlight into swirling shoals. Each beat of its radiant fins spawns micro‑constellations that drift like lanterns across the void."
     },
     {
         "name": "Inferno Tidebloom",
-        "image": "./WhaleCards/InfernoTidebloom.png",
+        "image": "./WhaleCards/InfernoTidebloom.jpeg",
         "description": "Born where magma meets monsoon, Tidebloom exhales petals of molten glass that harden into scarlet reefs. Sailors who follow its ember‑lit path claim the ocean itself hums a fiery lullaby."
     },
     {
         "name": "Sunchaser Lightborn",
-        "image": "./WhaleCards/SunchaserLightborn.png",
+        "image": "./WhaleCards/SunchaserLightborn.jpeg",
         "description": "Forged in the furnace of dawn, the Lightborn rides solar winds like gilded surf. Its translucent fins refract sunrise into a thousand rainbows that seed warmth on barren worlds."
     },
     {
         "name": "Skyward Leviathan",
-        "image": "./WhaleCards/SkywardLeviathan.png",
+        "image": "./WhaleCards/SkywardLeviathan.jpeg",
         "description": "A stratospheric titan, Leviathan drinks thunderclouds and exhales rainbows. Air‑borne sailors tether their skiffs to its luminous baleen to harvest storms safely."
     },
     {
         "name": "Coralback Nomad",
-        "image": "./WhaleCards/CoralbackNomad.png",
+        "image": "./WhaleCards/CoralbackNomad.jpeg",
         "description": "Nomad drifts among tropical gyres, a living archipelago cloaked in coral cities. Reef‑dwellers plant flags upon its shell, embarking on migratory kingdoms atop its wandering carapace."
     },
     {
         "name": "Frostvein Glaciarch",
-        "image": "./WhaleCards/FrostveinGlaciarch.png",
+        "image": "./WhaleCards/FrostveinGlaciarch.jpeg",
         "description": "Glaciarch swims through ice‑laden night, veins glowing sapphire beneath translucent frost. Its breath shapes snowflakes into fractal runes that foretell winter's temperament."
     },
     {
         "name": "Abyssal Seer",
-        "image": "./WhaleCards/AbyssalSeer.png",
+        "image": "./WhaleCards/AbyssalSeer.jpeg",
         "description": "Dwelling beyond sunlit fathoms, Seer's bioluminescent eyes chart dreams cast adrift by surface dwellers. It sings prophecies in infrasonic hymns felt more than heard."
     },
     {
         "name": "Tempestborne Skymaw",
-        "image": "./WhaleCards/TempestborneSkymaw.png",
+        "image": "./WhaleCards/TempestborneSkymaw.jpeg",
         "description": "Skymaw barrels through cyclones, devouring raw lightning with cavernous jaws. Folklore tells that the crack of thunder is its laughter shaking the heavens."
     },
     {
         "name": "Cogforge Brassbound",
-        "image": "./WhaleCards/CogforgeBrassbound.png",
+        "image": "./WhaleCards/CogforgeBrassbound.jpeg",
         "description": "Brassbound's clockwork ribs chime with piston hymns, exhaling perfumed steam alive with mechanical fireflies. Engineers covet the cogs it sheds, engraved with blueprints for inventions yet unborn."
     },
     {
         "name": "Stoneheart Verdantide",
-        "image": "./WhaleCards/StoneheartVerdantide.png",
+        "image": "./WhaleCards/StoneheartVerdantide.jpeg",
         "description": "Verdantide's rocky hide is a tapestry of moss and lichen, each scale a microcosm of life. It wanders the ocean floor, nurturing coral gardens that bloom in its wake."
     }
 ]
